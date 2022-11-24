@@ -8,6 +8,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... Java, Python or JavaScript
 - 🤔 I’m looking for help with ... React
 - 💬 Ask me about ... Any of my projects
-- 📫 How to reach me: ... [LinkedIn](https://www.linkedin/in/matthewflaherty9)
+- 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/matthewflaherty9)
 - 😄 Pronouns: ... He/HIM
 - ⚡ Fun fact: ... I enjoy watching and playing sports
