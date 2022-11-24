@@ -1,4 +1,4 @@
-### Here is what I am currently working on 👋
+### Here is what I am currently working on 
 
 
 Here are some ideas to get you started:
