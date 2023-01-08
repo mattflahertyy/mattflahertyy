@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Python DB socket server
+- 🔭 I’m currently working on ... A personal project: Sports players guessing game
 - 🌱 I’m currently learning ... Python, C and Clojure
 - 👯 I’m looking to collaborate on ... Java, Python or JavaScript
 - 🤔 I’m looking for help with ... React
